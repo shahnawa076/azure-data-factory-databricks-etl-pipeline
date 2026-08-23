@@ -1,0 +1,15 @@
+{
+	"name": "consoleflare-adf-project01",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e2b00de6-c653-4936-a0f2-9e96d754153e",
+		"tenantId": "e9c4b505-7994-42c3-b0b8-b3f38301d99f"
+	}
+}
